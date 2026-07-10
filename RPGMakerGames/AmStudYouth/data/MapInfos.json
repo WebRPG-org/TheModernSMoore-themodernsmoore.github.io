@@ -1,6 +1,0 @@
-[
-null,
-{"id":1,"expanded":true,"name":"The House","order":1,"parentId":0,"scrollX":642,"scrollY":443.4},
-{"id":2,"expanded":false,"name":"Bedroom","order":2,"parentId":1,"scrollX":651.6,"scrollY":453},
-{"id":3,"expanded":false,"name":"School","order":3,"parentId":0,"scrollX":651.6,"scrollY":453}
-]
